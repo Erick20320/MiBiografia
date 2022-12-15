@@ -67,6 +67,29 @@ h5 {
 	padding-top: 20px;
 }
 
+@media only screen and (max-width: 600px) {
+	.container-img {
+		width: 95%;
+		height: 20%;
+		margin-top: -650px;
+	}
+
+	.subtitulo  {
+		font-size: 12px;
+	}
+	
+	.subtitulo2 {
+		font-size: 8px;
+	}
+
+	.img-fluid {
+		width: 130px;
+		margin-top: -96px;
+	}
+
+
+}
+
 
 
 
